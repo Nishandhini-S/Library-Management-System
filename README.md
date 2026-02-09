@@ -1,8 +1,8 @@
-### LIBRARY MANAGEMENT SYSTEM
+## LIBRARY MANAGEMENT SYSTEM
 
 This is a simple Library Management System developed using Java Servlets, JSP, JDBC, and Oracle Database.
 
-# Features
+### Features
 
    - Add book with ISBN, title, type, author and cost
    - Search book using ISBN
@@ -10,7 +10,7 @@ This is a simple Library Management System developed using Java Servlets, JSP, J
    - Validations before inserting data
    - Oracle database connectivity
 
-# Technologies Used
+### Technologies Used
 
 - Java (JDK 21)
 - Servlets & JSP
@@ -18,7 +18,7 @@ This is a simple Library Management System developed using Java Servlets, JSP, J
 - Oracle Database (XE)
 - JDBC
 
-# OUTPUT
+### OUTPUT
 
 <img width="233" height="165" alt="image" src="https://github.com/user-attachments/assets/c779280d-6434-44a8-b85c-5ce6a65f587b" />
 
